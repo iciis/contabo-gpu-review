@@ -28,6 +28,10 @@ Here's a breakdown of what Contabo GPU entails:
 - **Variety of Configurations:** As seen in Image 1, Contabo offers different GPU server configurations with varying amounts of GPU RAM, system RAM, CPUs, storage, and bandwidth to cater to diverse user needs and budgets.
 - **Focus on Affordability:** Contabo is known for its competitive pricing, aiming to make GPU-accelerated computing more accessible to a wider range of users.
 
+<a href="https://afftrend.com/Contabgpu"> 
+<img src="https://drive.google.com/uc?export=view&id=19rCMBJhMocnqU6q6CjFcZSiMCZzy34GF" alt="Get Started"> 
+</a>
+
 ## **Features of Contabo GPU**
 
 1. **Powered by NVIDIA GPUs:**
